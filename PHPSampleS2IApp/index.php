@@ -1,5 +1,5 @@
 <?php
-require_once 'vendor/autoload.php'
+require_once 'vendor/autoload.php';
   
 echo "Hello World, this is a test application.";
 echo "It should compile with composer automatically";
